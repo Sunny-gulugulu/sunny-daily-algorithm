@@ -4,6 +4,5 @@ public class HelloWord{
     
     System.out.println("Hello guys, welcome to my coding world")
     
-  }
-    
+  }    
 }
